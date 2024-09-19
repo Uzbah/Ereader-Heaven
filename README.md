@@ -57,10 +57,10 @@
 
 ## References
 
-- [Project Gutenberg API: ](https://gutenbergapi.github.io/)
-- [html-pdf-node: ](https://www.npmjs.com/package/html-pdf-node)
-- [Express.js Documentation: ](https://expressjs.com/)
-- [Node.js Documentation: ](https://nodejs.org/)
+- [Project Gutenberg API](https://gutenbergapi.github.io/)
+- [html-pdf-node](https://www.npmjs.com/package/html-pdf-node)
+- [Express.js Documentation](https://expressjs.com/)
+- [Node.js Documentation](https://nodejs.org/)
 
 ## 🔗 Links
 
