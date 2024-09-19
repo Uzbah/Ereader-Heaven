@@ -1,6 +1,6 @@
 # Ereader Heaven
 
-**Ereader Heaven** is a web application that allows users to search for and download books in PDF format. It provides an easy-to-use interface for book enthusiasts, students, and researchers to access a vast collection of books. The app integrates the [Project Gutenberg API](https://gutenberg.org/wiki/Gutenberg:API) for book retrieval and uses `html-pdf-node` to convert books into downloadable PDFs.
+**Ereader Heaven** is a web application that allows users to search for and download books in PDF format. It provides an easy-to-use interface for book enthusiasts, students, and researchers to access a vast collection of books. The app integrates the [Project Gutenberg API](https://gutenbergapi.github.io/) for book retrieval and uses `html-pdf-node` to convert books into downloadable PDFs.
 
 ## Features
 
@@ -57,7 +57,7 @@
 
 ## References
 
-- Project Gutenberg API: [https://gutenberg.org/wiki/Gutenberg:API](https://gutenberg.org/wiki/Gutenberg:API)
+- Project Gutenberg API: [https://gutenberg.org/wiki/Gutenberg:API](https://gutenbergapi.github.io/)
 - html-pdf-node: [https://www.npmjs.com/package/html-pdf-node](https://www.npmjs.com/package/html-pdf-node)
 - Express.js Documentation: [https://expressjs.com/](https://expressjs.com/)
 - Node.js Documentation: [https://nodejs.org/](https://nodejs.org/)
